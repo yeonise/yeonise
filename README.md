@@ -19,7 +19,7 @@
 <h4 align="center">Algorithm</h4>
 <div align="center">
   <a href="https://solved.ac/yeon1109">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon1109" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon1109" width="300" />
   </a>
 </div>
 
@@ -28,6 +28,6 @@
 <h4 align="center">Now</h4>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yeonise" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yeonise" width="350" />
   </a>
 </div>
