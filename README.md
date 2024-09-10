@@ -1,16 +1,33 @@
-## Hi there 👋
+<h4 align="center">Now</h4>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=yeonise" />
+  </a>
+</div>
 
-<!--
-**yeonise/yeonise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<h4 align="center">Growing Tech Stack</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,spring,mysql,redis" />
+  </a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,aws,nginx,docker" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,vue" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<h4 align="center">Algorithm</h4>
+<div align="center">
+  <a href="https://solved.ac/yeon1109">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon1109" />
+  </a>
+</div>
